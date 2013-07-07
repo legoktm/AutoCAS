@@ -16,8 +16,9 @@ var config = {
 // @include https://casemed.case.edu/CAS/*
 // @name AutoCASfiller
 // @version 0.2
-// @author Kunal Mehta (legoktm@gmail.com)
+// @author Kunal Mehta <legoktm@gmail.com>
 // @license MIT License <http://opensource.org/licenses/MIT>
+// @updateURL https://raw.github.com/legoktm/AutoCAS/master/AutoCAS.user.js
 // ==/UserScript==
 
 function update_config(keyname, value) {
